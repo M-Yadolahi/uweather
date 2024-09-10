@@ -9,7 +9,7 @@ npm run dev -- -p 2000
 # or
 yarn dev -p 2000
 ```
-<img src="[https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true](https://cdn.ituring.ir/research/33/uweather2.png)"/>
+<img src="https://cdn.ituring.ir/research/33/uweather2.png"/>
 
 ## Touring Team 
 
